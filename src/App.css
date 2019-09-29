@@ -8,8 +8,8 @@
   border-radius: 15px;
   background: #fff;
   height: 500px;
-  width: 500px;
-  left: 33%;
+  width: 650px;
+  left: 28%;
   top: 15%;
   position: absolute;
 }
@@ -26,7 +26,7 @@
   padding-left: 15px;
   position: absolute;
   top: 80%;
-  width: 300px;
+  width: 380px;
 }
 
 .chat-input:focus {
@@ -44,7 +44,7 @@
   overflow-y: auto;
   position: absolute;
   top: 25px;
-  width: 450px;
+  width: 600px;
 }
 
 .history-item {
